@@ -1,0 +1,12 @@
+{
+  "1.0": {
+    "project_path": ":",
+    "project_dir": "/Users/rainqin_china/Documents/git/test-java",
+    "connection_project_dir": "/Users/rainqin_china/Documents/git/test-java",
+    "connection_gradle_user_home": "/Users/rainqin_china/Documents/gradle",
+    "connection_gradle_distribution": "GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(/Users/rainqin_china/Downloads/software/gradle/gradle-2.14-rc-2))",
+    "connection_java_home": null,
+    "connection_jvm_arguments": "",
+    "connection_arguments": ""
+  }
+}
